@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "SelStats",
   "version": "1.3.0",
-  "description": "Select numbers on any page to see Count, Sum, Avg, Median, Min and Max in a tiny status pill. Alt/Option-click (or Alt+double-click) a table cell for column stats.",
+  "description": "Select numbers on any page for instant Count, Sum, Avg, Median, Min & Max. Alt/Option-click a table cell for column stats.",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
